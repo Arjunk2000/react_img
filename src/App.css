@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(230, 72, 72);
+}
+.main {
+  padding: 20px;
+  margin-left: 200px;
+  width: 990px;
+}
+
+#para {
+  color: aliceblue;
+  font-size: 100px;
+  margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: 700;
+}
+
+.space {
+  padding-top: 50px;
+  padding-left: 300px;
+  padding-bottom: 50px;
+  color: rgb(219, 236, 236);
+  font-size: 50px;
+}
+
+.img {
+  width: 100px;
+  padding-left: 400px;
+}
